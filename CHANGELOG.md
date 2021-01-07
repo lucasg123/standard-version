@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [9.2.0](///compare/v9.1.1...v9.2.0) (2021-01-07)
+
+
+### Features
+
+* adding support for bitbucket projects that has hyphen in their names d4853d3
+
 ### [9.1.1](https://github.com/conventional-changelog/standard-version/compare/v9.1.0...v9.1.1) (2021-01-06)
 
 
