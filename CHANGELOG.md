@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [9.1.3](https://github.com/conventional-changelog/standard-version/compare/v9.2.1...v9.1.3) (2021-01-07)
+
+
+### Bug Fixes
+
+* fixing commit and compare url for bitbucket ([703a095](https://github.com/conventional-changelog/standard-version/commit/703a09501c871548843be78353efa5fde680e7cd))
+
 ### [9.2.1](https://github.com/conventional-changelog/standard-version/compare/v9.2.0...v9.2.1) (2021-01-07)
 
 ## [9.2.0](///compare/v9.1.1...v9.2.0) (2021-01-07)
