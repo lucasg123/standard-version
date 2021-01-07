@@ -310,7 +310,7 @@ standard-version --help
 ## Code Usage
 
 ```js
-const standardVersion = require('standard-version')
+const standardVersion = require('@latiwesh/standard-version')
 
 // Options are the same as command line, except camelCase
 // standardVersion returns a Promise

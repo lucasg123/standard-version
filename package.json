@@ -1,6 +1,6 @@
 {
   "name": "@latiwesh/standard-version",
-  "version": "9.2.0",
+  "version": "9.1.1",
   "description": "replacement for `npm version` with automatic CHANGELOG generation",
   "bin": {
     "standard-version": "bin/cli.js"
@@ -41,7 +41,7 @@
   },
   "homepage": "https://github.com/conventional-changelog/standard-version#readme",
   "dependencies": {
-    "@latiwesh/conventional-changelog": "3.1.25",
+    "@latiwesh/conventional-changelog": "3.1.26",
     "chalk": "^2.4.2",
     "conventional-changelog-config-spec": "2.1.0",
     "conventional-changelog-conventionalcommits": "4.5.0",
